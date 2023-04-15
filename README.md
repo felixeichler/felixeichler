@@ -1,5 +1,4 @@
-### Hi there 👋
-Entrepreneur by day 🕺, Coder by night 🦉  
+### Entrepreneur by day 🕺  Coder by night 🦉  
   
 I'm passionate about technology and great experiences.
 <!--
