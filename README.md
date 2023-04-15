@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Entrepreneur by day 🕺, Coder by night 🦉  
+  
+I'm passionate about technology and great experiences.
 <!--
 **felixeichler/felixeichler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
